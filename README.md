@@ -2,6 +2,12 @@
 github foundations - exampro
 
 
+## Cloning
+Three ways to clone
+* https
+* ssh
+* github cli
+
 ## Commits
 
 ## Branches
